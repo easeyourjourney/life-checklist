@@ -13,8 +13,8 @@
 ## Nutrition (16 pts)
 
 - [ ] **Breakfast (homemade)** (3 pts)
-- [ ] **Lunch (homemade)** (4 pts)
-- [ ] **Evening snack (dry fruits/fruits)** (3 pts)
+- [ ] **Lunch** (4 pts)
+- [ ] **Evening snack (dry fruits)** (3 pts)
 - [ ] **Dinner** (3 pts)
 - [ ] **2L water** (3 pts)
 
@@ -22,11 +22,10 @@
 
 ## Evening (20 pts)
 
-- [ ] **Home by 7 PM** (3 pts)
-- [ ] **Make dinner** (5 pts)
-- [ ] **Prep lunch for tomorrow** (5 pts)
-- [ ] **Pack lunch** (2 pts)
-- [ ] **Prepare dress for tomorrow** (2 pts)
+- [ ] **Home by 9 PM** (3 pts)
+- [ ] **Have fruits for dinner** (5 pts)
+- [ ] **Face and body care** (5 pts)
+- [ ] **Prepare dress for tomorrow** (4 pts)
 - [ ] **In bed by 10 PM** (3 pts)
 
 ---
