@@ -3,8 +3,8 @@
 
 ## Early Morning (12 pts)
 
-- [x] **Wake at 4 AM** (4 pts)
-- [x] **Study Block Complete** (8 pts)
+- [ ] **Wake at 4 AM** (4 pts)
+- [ ] **Study Block Complete** (8 pts)
 
 ---
 
@@ -52,7 +52,7 @@
 
 | Date | Day | Score |
 |------|-----|-------|
-| 2026-01-19 | Sun | /50 |
+| 2026-01-19 | Sun | 39/50 |
 | 2026-01-20 | Mon | /50 |
 | 2026-01-21 | Tue | /50 |
 | 2026-01-22 | Wed | /50 |
