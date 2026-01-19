@@ -86,6 +86,13 @@
 ### Notes
 _What went well? What needs improvement?_
 
+**2026-01-19 (Mon)**
+What I didn't finish:
+- Homemade lunch (3 pts)
+- Clear emails (2 pts)
+- Action items by 12 PM (4 pts)
+- Wrap up by 6 PM (2 pts)
+
 
 
 
