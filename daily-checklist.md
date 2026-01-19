@@ -3,7 +3,7 @@
 
 ## Early Morning (12 pts)
 
-- [ ] **Wake at 4 AM** (4 pts)
+- [x] **Wake at 4 AM** (4 pts)
 - [ ] **Study Block Complete** (8 pts)
 
 ---
