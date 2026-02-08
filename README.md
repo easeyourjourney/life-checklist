@@ -43,3 +43,4 @@ A daily accountability system. Score yourself honestly. Aim for 50/50.
 - No partial credit (except where noted)
 - Track daily, review weekly
 - Aim for consistency over perfection
+
